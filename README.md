@@ -82,5 +82,4 @@ Além disso, a utilização do ecossistema GoodWe permite integração com solu�
 
 # Vídeo Pitch
 
-Link do vídeo:
-(COLAR LINK DO YOUTUBE)
+https://youtu.be/m8uTL_9mLPo
