@@ -2,9 +2,12 @@
 
 ## Integrantes
 
-- Nome – RM
-- Nome – RM
-- Nome – RM
+- Gustavo Guedes Pereira - 569779
+- Lucas Angelo Colesanti – 569330
+- Gustavo de Souza Correa – 570746
+- Arthur Tae Gun Yong – 570647
+- Murillo Boyadjian Guimarães – 570774
+- Gabriel Rodrigues – 569322
 
 ---
 
